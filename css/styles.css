@@ -26,6 +26,9 @@ body {
 }
 
                        /********* NAV-BAR *********/
+.navbar-nav{
+  text-align: center;
+}
 .navbar{
   height:80px;
 
