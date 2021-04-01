@@ -112,6 +112,9 @@ letter-spacing: 2px;
   background-color: #121f4d;
   border-color: #121f4d;
 }
+.button-intro{
+  width:100%;
+}
 .title {
   font-weight: 800;
   letter-spacing: -2px;
